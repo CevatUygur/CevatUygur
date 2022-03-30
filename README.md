@@ -1,4 +1,4 @@
-### Hi there, I am Cevat Uygur 👋
+### Hi there, I'm Cevat 👋
 
 - 🔭 I’m currently working on IOS Development.
 
@@ -6,18 +6,15 @@
 
 - 👯 I’m looking to collaborate on new mobile projects.
 
-<br />
+</br>
 
-<img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=CevatUygur.CevatUygur">
+![Cevat's Stats](https://github-readme-stats.vercel.app/api?username=CevatUygur&show_icons=true&count_private=true&theme=dark)
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CevatUygur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Cevat Uygur github stats](https://github-readme-stats.vercel.app/api?username=CevatUygur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub followers](https://img.shields.io/github/followers/CevatUygur?label=Followers&style=social)](https://github.com/NathanFallet/)
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CevatUygur&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="NathanFallet" /> </p>
 
 <!--
 - 💬 Ask me about ...
