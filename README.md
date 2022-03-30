@@ -14,7 +14,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/CevatUygur?label=Followers&style=social)](https://github.com/NathanFallet/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="NathanFallet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="CevatUygur" /> </p>
 
 <!--
 - 💬 Ask me about ...
