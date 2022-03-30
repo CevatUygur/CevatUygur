@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CevatUygur&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub followers](https://img.shields.io/github/followers/CevatUygur?label=Followers&style=social)](https://github.com/NathanFallet/)
+[![GitHub followers](https://img.shields.io/github/followers/CevatUygur?label=Followers&style=social)](https://github.com/CevatUygur/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="CevatUygur" /> </p>
 
