@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on new mobile projects.
 - 🤔 I’m looking for help with code review.
 
-<img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=CevatUygur' />
+<div align='center'>
+  <img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=CevatUygur.CevatUygur">
+</div>
 
 <!--
 - 💬 Ask me about ...
