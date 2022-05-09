@@ -1,10 +1,8 @@
 ### Hi there, I'm Cevat 👋
 
-- 🔭 I’m currently working on IOS Development.
+- 🔭 I’m currently working on iOS Development with Swift, UIKIT and SwiftUI.
 
-- 🌱 I’m currently learning Swift, SwiftUI and UIKIT.
-
-- 👯 I’m looking to collaborate on new mobile projects.
+- 👯 I’m looking to collaborate on new iOS projects.
 
 </br>
 
@@ -15,6 +13,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/CevatUygur?label=Followers&style=social)](https://github.com/CevatUygur/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="CevatUygur" /> </p>
+
+📫 How to reach me: cevatuygur@gmail.com
 
 <!--
 - 💬 Ask me about ...
