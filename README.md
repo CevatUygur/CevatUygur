@@ -14,9 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="CevatUygur" /> </p>
 
-📫 How to reach me:
-cevatuygur@gmail.com
-+905547421455
+📫 How to reach me:</br>cevatuygur@gmail.com</br>+905547421455
 
 <!--
 - 💬 Ask me about ...
