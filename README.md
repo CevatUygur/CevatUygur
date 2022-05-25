@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CevatUygur" alt="CevatUygur" /> </p>
 
-📫 How to reach me:</br>cevatuygur@gmail.com
+📫 How to reach me: cevatuygur@gmail.com
 
 <!--
 - 💬 Ask me about ...
