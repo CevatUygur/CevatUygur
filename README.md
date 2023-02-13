@@ -1,6 +1,6 @@
 ### Hi there, I'm Cevat 👋
 
-- 🔭 I’m currently working on my iOS Development projects with Swift, UIKIT and SwiftUI.
+- 🔭 I’m currently working on my iOS Development projects with Swift, UIKit and SwiftUI.
 
 - 👯 I’m open to work both full time and collaboration on new iOS projects.
 
